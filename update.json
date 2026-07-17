@@ -1,5 +1,7 @@
 {
+ "_comment": " version : mustUpdate / patch : silentUpdate ",
   "version": "1.7.10",
+  "patch":"8",
   "url": "https://cutt.ly/auto_pro",
   "Verified": true
 }
