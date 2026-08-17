@@ -6,6 +6,8 @@
 // @version      1.7.20
 
 // @match        *://*.centurygames.com/*
+// @match        *://apps-363893212342994.apps.fbsbx.com/*
+
 // @exclude      *://*.facebook.*/*
 // @exclude      *://*.paypal.*/*
 // @exclude      *://*.googletagmanager.*/*
@@ -15,7 +17,7 @@
 // @exclude      *://*.doubleclick.*/*
 // @exclude      *://*.helpshift.*/*
 // @exclude      *://*.centurygames.com/preloadAdyenPayment/*
-// @match        *://apps-363893212342994.apps.fbsbx.com/*
+
 
 // @updateURL    https://s.id/auto17
 // @downloadURL  https://s.id/auto17
