@@ -7,6 +7,7 @@
 
 // @match        *://*.centurygames.com/*
 // @match        *://apps-363893212342994.apps.fbsbx.com/*
+// @match        *://*.farmbot-vip.online/*
 
 // @exclude      *://*.facebook.*/*
 // @exclude      *://*.paypal.*/*
